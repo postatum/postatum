@@ -7,3 +7,4 @@ I work to do what I love, which is: solving problems, pinpointing bugs and autom
 [![Artem's GitHub stats](https://github-readme-stats.vercel.app/api?username=postatum&count_private=true&custom_title=My%20Github%20Stats)](https://github.com/anuraghazra/github-readme-stats)
 
 🐞
+ 
